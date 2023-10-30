@@ -10,7 +10,7 @@ This is a collection of personal notes and resources for studying programming.
 
 ### Code 102 - Intro to Software Development
 
-1. [Github and Markdown](https://Hayden-Cleaver.github.io/Reading-Notes/Code102/Class1.md)
+1. [Github and Markdown](https://Hayden-Cleaver.github.io/Reading-Notes/Code102/Class1)
 2. 
 3. 
 4. 
