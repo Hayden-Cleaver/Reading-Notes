@@ -14,4 +14,4 @@ There are a number of of applications with deviations from the standard Markdown
 - Line Breaks: '\<br>\'
 
 ***
-[Return to Table of Contents](https://hayden-cleaver.github.io/Reading-Notes/README)
+[Return to Table of Contents](https://hayden-cleaver.github.io/Reading-Notes/)
