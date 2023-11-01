@@ -42,3 +42,8 @@
 
     - Push: Sends changes on the local to the remote repository.
     - Also puts the file back in the 'unmodified' state, ready to track any new changes made to the files.
+
+[Source](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
+
+***
+[Return to Table of Contents](https://hayden-cleaver.github.io/Reading-Notes/)
